@@ -10,10 +10,5 @@ No Graphics Internal iGPU Intel HD 630 <br />
 
 ![Screenshot 2023-09-02 at 9 15 20 PM](https://github.com/Serverbd-Technology/Sonoma_Asus_B460_EFI_Dual_Monitor_4GB_GFX_HD630_iGPU/assets/143884969/0d7414b4-2e11-4c68-9707-2924e3f8ce10)
 
-![Screenshot 2023-09-02 at 6 54 41 PM](https://github.com/Serverbd-Technology/Sonoma_Asus_B460_EFI_Dual_Monitor_4GB_GFX_HD630_iGPU/assets/143884969/04d65407-1cd0-43e1-853b-deb578b3c23c)
-
-![Screenshot 2023-09-02 at 6 56 14 PM](https://github.com/Serverbd-Technology/Sonoma_Asus_B460_EFI_Dual_Monitor_4GB_GFX_HD630_iGPU/assets/143884969/457706ff-1a8a-421d-b861-65aaae70aa4c)
-
-
 
 
