@@ -7,10 +7,13 @@ Montech Fighter 500 White ATX Mid Tower Gaming Case <br />
 Asus Prime B460M-A Intel 10th Gen Micro-ATX Motherboard	<br />
 PNY CS1031 256GB M.2 NVMe SSD	PNY CS1031 256GB M.2 NVMe SSD	1	3,700৳ <br />
 No Graphics Internal iGPU Intel HD 630 <br />
+
+![Screenshot 2023-09-02 at 9 15 20 PM](https://github.com/Serverbd-Technology/Sonoma_Asus_B460_EFI_Dual_Monitor_4GB_GFX_HD630_iGPU/assets/143884969/0d7414b4-2e11-4c68-9707-2924e3f8ce10)
+
 ![Screenshot 2023-09-02 at 6 54 41 PM](https://github.com/Serverbd-Technology/Sonoma_Asus_B460_EFI_Dual_Monitor_4GB_GFX_HD630_iGPU/assets/143884969/04d65407-1cd0-43e1-853b-deb578b3c23c)
 
 ![Screenshot 2023-09-02 at 6 56 14 PM](https://github.com/Serverbd-Technology/Sonoma_Asus_B460_EFI_Dual_Monitor_4GB_GFX_HD630_iGPU/assets/143884969/457706ff-1a8a-421d-b861-65aaae70aa4c)
 
-![Screenshot 2023-09-02 at 6 55 06 PM](https://github.com/Serverbd-Technology/Sonoma_Asus_B460_EFI_Dual_Monitor_4GB_GFX_HD630_iGPU/assets/143884969/faa51419-c1aa-420b-b2f0-3a313a0b6346)
+
 
 
