@@ -6,7 +6,7 @@ Internal iGPU Intel HD 630 <br />
 Asus Prime B460M-A Intel 10th Gen Micro-ATX Motherboard	<br />
 CORSAIR H55 RGB 120mm All-in-One Liquid CPU Cooler <br />
 Team T-Force Delta 16 GB 2666MHz DDR4 RGB White Desktop RAM	<br />
-Dual Monitor HP 22FW Left + HP 22f Right 
+Dual Monitor HP 22FW Left + HP 22f Right <br />
 Corsair CX450 450 Watt 80 PLUS Bronze Certified ATX Power Supply	<br />
 Montech Fighter 500 White ATX Mid Tower Gaming Case <br />
 
