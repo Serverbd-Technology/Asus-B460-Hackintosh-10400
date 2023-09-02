@@ -10,7 +10,7 @@ Corsair CX450 450 Watt 80 PLUS Bronze Certified ATX Power Supply	<br />
 Montech Fighter 500 White ATX Mid Tower Gaming Case <br />
 
 
-![Screenshot 2023-09-02 at 9 15 20 PM](https://github.com/Serverbd-Technology/Sonoma_Asus_B460_EFI_Dual_Monitor_4GB_GFX_HD630_iGPU/assets/143884969/0d7414b4-2e11-4c68-9707-2924e3f8ce10)
+![Screenshot 2023-09-02 at 9 15 20 PM](https://github.com/Serverbd-Technology/Sonoma_Asus_B460_EFI_Dual_Monitor_4GB_GFX_HD630_iGPU/assets/143884969/921fc675-8b34-4671-ab53-e91615a96686)
 
 ![Screenshot 2023-09-02 at 9 20 35 PM](https://github.com/Serverbd-Technology/Sonoma_Asus_B460_EFI_Dual_Monitor_4GB_GFX_HD630_iGPU/assets/143884969/e55b3871-676a-4e05-88e3-224b87032614)
 
